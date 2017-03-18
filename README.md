@@ -4,4 +4,4 @@ Loading contacts wouldn't be easier than ShimmerContactsView
 
 Demo I |      Demo II
 -------- | ---
-[Imgur](http://i.imgur.com/nvMdUJI.gifv) | http://i.imgur.com/nvMdUJI.gif
+<a href="http://imgur.com/nvMdUJI"><img src="http://i.imgur.com/nvMdUJI.gif" title="source: imgur.com" /></a> | http://i.imgur.com/nvMdUJI.gif
