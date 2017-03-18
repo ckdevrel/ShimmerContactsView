@@ -12,4 +12,6 @@ Demo I |      Demo II
 
 
 
-<a href="http://imgur.com/xytbtud"><img src="http://i.imgur.com/xytbtud.png" title="source: imgur.com" height="480" width="600" /></a>
+# Benchmark Test
+
+<a href="http://imgur.com/xytbtud"><img src="http://i.imgur.com/xytbtud.png" title="source: imgur.com" height="450" width="600" /></a>
