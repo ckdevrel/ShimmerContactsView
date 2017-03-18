@@ -6,6 +6,8 @@ Why ShimmerContactsView?
 - This view can be used as a contact picker using bottom sheet dialog and activity.
 
 
+
+
 Demo I |      Demo II
 -------- | ---
 <a href="http://imgur.com/hY0n7QG"><img src="http://i.imgur.com/hY0n7QG.gif" title="source: imgur.com" height="480" width="260" /></a> | <a href="http://imgur.com/nvMdUJI"><img src="http://i.imgur.com/nvMdUJI.gif" title="source: imgur.com" height="480" width="260" /></a>
