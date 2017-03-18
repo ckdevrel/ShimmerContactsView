@@ -1,6 +1,11 @@
 # ShimmerContactsView
 Loading contacts wouldn't be easier than ShimmerContactsView
 
+# Why ShimmerContactsView
+
+- It is the superfast view to display contacts in RecyclerView with rich material design UI.
+- This view can be used as a contact picker using bottom sheet dialog and activity.
+
 
 Demo I |      Demo II
 -------- | ---
