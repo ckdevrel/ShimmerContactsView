@@ -39,7 +39,7 @@ Define your xml as:
 where ```@layout/layout_demo_grid``` refers to your sample layout that should be shown during loading spinner. Now on your activity onCreate, initialize the shimmer as below:
 
 ```java
-ShimmerRecyclerView shimmerRecycler = (ShimmerRecyclerView) findViewById(R.id.shimmer_recycler_view);
+ShimmerRecyclerView shimmerRecycler = (ShimmerRecyclerView) findViewById(R.id.recycler_view_contacts);
 shimmerRecycler.showShimmerAdapter();
 ```
 
