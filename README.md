@@ -12,4 +12,4 @@ Demo I |      Demo II
 
 
 
-<a href="http://imgur.com/xytbtud"><img src="http://i.imgur.com/xytbtud.png" title="source: imgur.com" height="480" width="260" /></a>
+<a href="http://imgur.com/xytbtud"><img src="http://i.imgur.com/xytbtud.png" title="source: imgur.com" height="480" width="760" /></a>
