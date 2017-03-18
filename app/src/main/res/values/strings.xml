@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShimmerContactsView</string>
+
+    <string name="permisson_error">Permission error for contacts</string>
+</resources>
