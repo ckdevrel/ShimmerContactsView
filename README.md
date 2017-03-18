@@ -54,5 +54,5 @@ Acknowledgements
 -----------------
 
 * Facebook for <a href="https://github.com/facebook/shimmer-android">Shimmer Android</a>
-* Thanks to https://github.com/sharish/ShimmerRecyclerView
-
+* Thanks to <a href="https://github.com/sharish/ShimmerRecyclerView">ShimmerRecyclerView</a> 
+* <a href="https://github.com/amulyakhare/TextDrawable">TextDrawable</a>
